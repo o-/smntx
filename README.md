@@ -1,3 +1,3 @@
-Implementing the examples from "Types and Programming Languages":https://www.cis.upenn.edu/~bcpierce/tapl/ in the "PLT Redex":http://redex.racket-lang.org/ framework.
+Implementing the examples from [Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/) in the [PLT Redex](http://redex.racket-lang.org/) framework.
 
 Ongoing effort...
